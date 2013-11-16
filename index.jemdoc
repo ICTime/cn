@@ -1,0 +1,8 @@
+# jemdoc: menu{MENU}{example.html} addcss {}
+### jemdoc: addcss{table}
+= 随机漫步 --- 工作与梦想
+
+欢迎来到我的个人主页,  我是一名IC后端工程师，最近专注在时序约束和时序收敛.
+
+== 我的工作
+
