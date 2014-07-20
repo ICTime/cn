@@ -4,3 +4,4 @@
 ./jemdoc resume 
 ./jemdoc document 
 ./jemdoc logs
+./jemdoc system
