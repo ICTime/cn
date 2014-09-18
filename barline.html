@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+google.setOnLoadCallback(drawVisualization);
+
+function drawVisualization() {
+  // Some raw data (not necessarily accurate)
+  var data = google.visualization.arrayToDataTable([
+    ['Month', 'cdl ', 'cdl', 'cdl',  'cdl', 'Average','MA2'],
+      ['Mon', 20, 28, 38, 45,20, 10],
+      ['Tue', 31, 38, 55, 66,20, 20],
+      ['Wed', 50, 55, 77, 80,20, 30],
+      ['Thu', 77, 77, 66, 50,20, null],
+      ['Fri', 68, 66, 22, 15,20, null]
+  ]);
+
+  var options = {
+    title : 'Monthly Coffee Price ',
+    // vAxis: {title: "Price"},
+    // hAxis: {title: "Month"},
+    seriesType: "line",
+    series: {0: {type: "candlesticks"}}
+  };
+
+  var chart = new google.visualization.ComboChart(document.getElementById('chart_div'));
+  chart.draw(data, options);
+}
+    </script>
+  </head>
+  <body>
+    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html
