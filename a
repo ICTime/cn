@@ -35,8 +35,6 @@
 <h1>iTunes-U and Coursera </h1>
 </div>
 
-
-<div class="contentWrapper">
 <section class="homeTiles">
     <div class="homeTiles_inner">
         <div class="insightsFeatures_item insightsFeatures_item--square">
@@ -124,10 +122,6 @@
             
     </div>
 </section>
-</div><!-- /.contentWrapper -->
-
-
-
 </td>
 </tr>
 </table>
