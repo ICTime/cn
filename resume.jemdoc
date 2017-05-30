@@ -3,70 +3,15 @@
 = iTunes-U and Coursera 
 
 == Finance 
-- [http://cgt.columbia.edu/videos/ Columbia The Committee on Global Thought]   + Done + \n [http://cgt.columbia.edu/videos/a_new_disorder/ F inancial Design in the Aftermath ]  \|  [http://cgt.columbia.edu/videos/myths_markets_and_main_street/ Economic Myths, Markets, and Main Street] \| [http://cgt.columbia.edu/videos/long-term_investing_an_optimal_strategy_in_short-term_oriented_markets26/ Theoretical Analysis of Value and Momentum Strategies ] 
 - [https://class.coursera.org/fe-001/class/index  MOOC Columbia] Financial Engineering and Risk Management , Martin Haugh, Garud Iyengar
-- [http://ocw.mit.edu/courses/sloan-school-of-management/15-401-finance-theory-i-fall-2008/index.htm MIT 15.401] Finance Theory I [https://itunes.apple.com/us/itunes-u/financial-theory-video/id428500350 iTunes] \|  [http://ocw.mit.edu/courses/sloan-school-of-management/15-401-finance-theory-i-fall-2008/video-lectures-and-slides/ MITOC Video]  +Local Lecture+ \n 
 - [http://oyc.yale.edu/economics/econ-251  Yale ECON251] Financial Theory, John Geanakoplos, [http://oyc.yale.edu/economics/econ-251\#sessions Fall 2009 Video] \| [https://itunes.apple.com/us/itunes-u/financial-theory-video/id428500350 iTunes] \n
-- [http://oyc.yale.edu/economics/econ-252-08 Yale ECON252]  Financial Markets Robert Shiller.[http://oyc.yale.edu/economics/econ-252-08\#sessions Spring 2011] + Introduction Broad Topics \| Lack in Depths \| Done +
-- [https://class.coursera.org/compfinance-003/class/index MOOC W]  Introduction to Computational Finance and Financial Econometrics  Eric Zivot
 
 
 == Algorithms/Optimization  
-- [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/ MIT 6.00] Introduction to Computer Science and Programming Fall 2008 [https://itunes.apple.com/cn/itunes-u/introduction-to-computer-science/id341597455 iTunes +Local Lecture+ ] \n
  [https://developers.google.com/edu/python/introduction Google Python Training ] [http://docs.python.org/2.7/tutorial/ Python Docs]  Good Course For Programming Overall. 
 - [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/ MIT 6.006] Introduction to Algorithms, Erik Demaine and Srinivas Devadas, Fall 2011  iTunes 
-- [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/ MIT 6.042J] Mathematics for Computer Science, Tom Leighton [https://itunes.apple.com/us/itunes-u/mathematics-for-computer-science/id503873536 iTunes]  +Local Lecture+ \n
-  Number Theory is Boring\| Proof, Induction is OK\| Sum are well explained \| Graph and Probability Fantastic | +Tom is a very good teacher. +
-- [https://class.coursera.org/scicomp-001/lecture/index  MOOC W] High Performance Scientific Computing \|  Linux, Python, Amazone EC2, [https://bitbucket.org/rjleveque/uwhpsc.git GitHub] Skipped Fotran90 MPI, +Local EC2  Video \| Done+ 
-- MOOC Stanford Algorithms: Design and Analysis,  [https://www.coursera.org/course/algo Part 1]  [https://www.coursera.org/course/algo2 Part 2]
-- Linear Dynamical Systems [http://stanford.edu/~boyd/ Stephen Boyd] 
-- Stanford EE364A Convex Optimization Stephen Boyd  
 - Stanford EE364B Convex Optimization Stephen Boyd 
 - [http://persson.berkeley.edu/128A/ Math128A] Numerical Analysis, Fall 2012 [https://itunes.apple.com/us/itunes-u/mathematics-128a-001-fall/id556236572 itunes-U] + Local Lecture + 
 - [https://www.coursera.org/course/optimization MOOC Melbourne] Discrete Optimization Pascal Van Hentenryck
 
 
-==  Statistics/Data Science 
-- [http://datascienc.es/spring-2011-course/ CS194-16] Introduction to Data Science, Sprint 2011, +Tons of resource+
-- [https://class.coursera.org/datasci-001/class/index MOOC W] Introduction to Data Science Bill Howe [https://github.com/uwescience/datasci_course_materials.git GitHub]  
-- [http://had.co.nz/stat645/  STAT645] Data Visualisation Rice University, Spring 2011, +Lecture Only \| Local Lecture + 
-- [https://class.coursera.org/introstats-001/class/index  MOOC Toronto] Statistics: Making Sense of Data  + Local R video tutrial + \| Stats Testing Part is Intresting\| +Done+ 
-- Statistics 110: Probability Harvard [https://itunes.apple.com/cn/course/statistics-110-probability/id502492375  itunes-U]  + Old School Teachining, NO Lecture notes + \n
-  [http://en.wikipedia.org/wiki/Birthday_problem Birthday Problem] \|Monty Hall \|[http://en.wikipedia.org/wiki/List_of_paradoxes List_of_paradoxex] \|[http://en.wikipedia.org/wiki/Binomial_distribution Binomial_distribution]  
-- [https://class.coursera.org/compmethods-003/class/index MOOC W] Computational Methods for Data Analysis  Nathan Kutz, Radar DSP Intresting Wavelet Concept Well Explained\|+Nathan is a very good teacher +  \n  
-  Sister Course [https://class.coursera.org/scientificcomp-004/class/index Scientific Computing]  Mainly on Numerical Methods and Matlab + Lecture Notes for Refence \| Done+ 
-- [https://www.coursera.org/course/compdata MOOC Johns Hopkins] Computing for Data Analysis Roger Peng 
-- MIT 6.041	 Probabilistic Systems Analysis and Applied Probability	
-
-
-== Machine Learning 
-- [http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml CM 10-701] Machine Learning  Tom Mitchell, Spring 2011 +Watch online, Video \+Slide+
-- [http://ai.stanford.edu/~ang/courses.html Stanford CS229] Machine Learning  [https://itunes.apple.com/us/itunes-u/machine-learning/id384233048 iTunes-U] [https://class.coursera.org/ml-003/class Coursera] 
-- [http://inst.eecs.berkeley.edu/~cs188/fa11/lectures.html  CS188] Artificial Intelligence, Fall 2011 +Lecture Local 2012 + 
-- [http://ocw.mit.edu/courses/sloan-school-of-management/15-062-data-mining-spring-2003/syllabus/ 15.062 ] Data Mining, 2003,  MIT +Lecture Only+ 
-- [https://class.coursera.org/pgm-003/class/index MOOC MIT] Probabilistic Graphical Models,  Daphne Koller  
-- [https://class.coursera.org/nlangp-001/class/index MOOC Columbia] Natural Language Processing Michael Collins
-- [https://class.coursera.org/neuralnets-2012-001/class/index MOOC Toronto]  Neural Networks for Machine Learning  
-- [http://www.cc.gatech.edu/~agray/4245fall10/  GT 4245] Introduction to Data Mining and Analysis, Book [http://www-stat.stanford.edu/~tibs/ElemStatLearn/ The Elements of Statistical Learning ]
-- [http://www.stanford.edu/class/cs246/index.html Stanford CS246] Mining Massive Data Sets, Jure Leskovec   
-
-== Electric Enginering  ASIC 
-- [https://class.coursera.org/vlsicad-001/class    VLSI CAD: Logic to Layout ] Rob A. Rutenbar  Illinois \| +Selected Lecture Only+: ASIC Placement, ASIC Routing, Timing Analysis
-
-== Social Science  
-- [https://class.coursera.org/modelthinking-004/class/index MOOC Michigan] Model Thinking 
-- [https://class.coursera.org/gametheory-2012-002/lecture/index MOOC Stanford] Game Theory 7 Weeks, +Local Video for Later +
-- [https://class.coursera.org/behavioralecon-001/lecture/index MOOC Duke] A Beginner's Guide to Irrational Behavior Dan Ariely \| + Good lecture, Local Video for Later + 
-
-== Others 
-- 15.084J Nonlinear Programming  [http://ocw.mit.edu/courses/sloan-school-of-management/15-084j-nonlinear-programming-spring-2004/lecture-notes/ +Lecture Only+ ]
-- [https://class.coursera.org/maththink-002/class/index MIT: Introduction to Mathematical Thinking] Keith Devlin   + UnderGraduate and Dropout+ 
-- [https://class.coursera.org/organalysis-2012-001/class/index MIT: Organizational Analysis] Daniel McFarland  + Dropout + 
-- MIT 18.085\/6  Mathematical Methods for Engineers I\/II [https://itunes.apple.com/cn/itunes-u/computational-science-engineering/id354869177 iTunes] + Pure Math,  Poor Quality Video, Dropout on Lecture1+ [http://ocw.mit.edu/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/index.htm  PART II ]  [https://itunes.apple.com/cn/itunes-u/mathematical-methods-for-engineers/id354869182 iTunes ]  
-- MIT 15.402 Finance Theory II mainly on Corporate Finance and Pricing +SKIP+
-- [https://class.coursera.org/macroeconomics-001/class/index MOOC Melbourne] Principles of Macroeconomics  +Skip the Video as the teacher just read lectures +
-
-== Links 
-- [http://ocw.mit.edu/courses/audio-video-courses/ MIT Open Course] 
-- [https://google-developers.appspot.com/chart/ Google Chart] \| [http://www.google.com/publicdata/directory Google Pulice Data] \| [http://www-958.ibm.com/software/data/cognos/manyeyes/  Many Eyes] \|[http://www.stamen.com/ Stamen] \| [http://www.statsoft.com/textbook/ StatSoft Textbook]
-- [http://cran.r-project.org/web/views/Finance.html Finance Review] \|[https://www.rmetrics.org/ RMetrics ] [http://cran.r-project.org/web/packages/forecast/index.html Forecast] 

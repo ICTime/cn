@@ -1,1 +1,3 @@
-comment MENU if not using MENU bar 
+git commit -am 'somthing'
+push origin gh-pages
+
